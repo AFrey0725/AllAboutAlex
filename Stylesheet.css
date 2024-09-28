@@ -1,0 +1,52 @@
+/*
+Author: Alex Frey
+Date: 09/27/2024
+File Name: Stylesheet.css
+*/
+
+/*Style rules for heading one.*/
+
+h1 {
+    color: #0033cc;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+}
+
+/*Style rules for the body section.*/
+
+body {
+    background-color:#d1e0e0;
+    color: black;
+    font-style: normal;
+}
+
+/*Style rules for the header section.*/
+
+header {
+    color: #0033cc;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+}
+
+/*Style rules for the nav section.*/
+
+nav {color: #0033cc;
+    font-style: italic;
+}
+
+/*Style rules for the main section.*/
+
+main {background-color: #d1e0e0;
+      color: black;
+      font-style: normal;
+      text-align: justify;
+      font-size: large;
+}
+
+/*Style rules for the footer section.*/
+
+footer {background-color: #d1e0e0;
+        color: black;
+}
